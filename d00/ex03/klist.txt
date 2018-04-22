@@ -1,0 +1,6 @@
+Credentials cache: API:B0370EA9-5518-45C1-ABD6-0F64FD55A56D
+        Principal: eneto@42.FR
+
+  Issued                Expires               Principal
+Aug 30 02:14:11 2016  Sep  6 02:14:11 2016  krbtgt/42.FR@42.FR
+Aug 30 02:20:44 2016  Sep  6 02:14:11 2016  ldap/ldap-proxy.42.fr@42.FR

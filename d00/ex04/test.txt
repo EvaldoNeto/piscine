@@ -1,0 +1,17 @@
+# extended LDIF
+#
+# LDAPv3
+# base <dc=42,dc=fr> (default) with scope subtree
+# filter: (uid=test)
+# requesting: dn 
+#
+
+# test, 2016_paris, 2016, paris, people, 42.fr
+dn: uid=test,ou=2016_paris,ou=2016,ou=paris,ou=people,dc=42,dc=fr
+
+# search result
+search: 4
+result: 0 Success
+
+# numResponses: 2
+# numEntries: 1
